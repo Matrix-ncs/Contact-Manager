@@ -41,9 +41,8 @@ CREATE TABLE `contact_info` (
 INSERT INTO `contact_info` (`id`, `user_id`, `name`, `phone`) VALUES
 (30, 4, 'Nishith ', '01789999'),
 (31, 4, 'Nishith ', '01789999'),
-(32, 4, 'Nishith ', '01789999'),
-(34, 4, 'Ganja', '01789999'),
-(35, 4, 'Ganja', '01789999');
+(32, 4, 'Nishith ', '01789999');
+
 
 -- --------------------------------------------------------
 
